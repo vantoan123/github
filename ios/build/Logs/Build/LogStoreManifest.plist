@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>127A3F2C-E63E-4E06-BC8F-791B698D3DF9</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>127A3F2C-E63E-4E06-BC8F-791B698D3DF9.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CardModal project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CardModal</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project CardModal with scheme CardModal and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>568104411.342489</real>
+			<key>timeStoppedRecording</key>
+			<real>568104413.79058802</real>
+			<key>title</key>
+			<string>Building project CardModal with scheme CardModal and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>127A3F2C-E63E-4E06-BC8F-791B698D3DF9</string>
+		</dict>
+		<key>E76D5F43-DFD0-4538-BD93-D82652F75ACD</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E76D5F43-DFD0-4538-BD93-D82652F75ACD.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CardModal project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CardModal</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project CardModal with scheme CardModal and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>567764061.38560402</real>
+			<key>timeStoppedRecording</key>
+			<real>567764062.333709</real>
+			<key>title</key>
+			<string>Building project CardModal with scheme CardModal and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>E76D5F43-DFD0-4538-BD93-D82652F75ACD</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
